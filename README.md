@@ -12,12 +12,12 @@ My stack:
 - Git
 
 Sample projects:
-  React:
-    WobClone - https://github.com/LukasP-ghub/WobClone
-    VideoApp - https://github.com/LukasP-ghub/VideoApp
-  JavaScript:
-    CitiesApp - https://github.com/LukasP-ghub/CitiesApp
-    Page-layout - https://github.com/LukasP-ghub/layout-task
+  - React:
+    - WobClone - https://github.com/LukasP-ghub/WobClone
+    - VideoApp - https://github.com/LukasP-ghub/VideoApp
+  - JavaScript:
+    - CitiesApp - https://github.com/LukasP-ghub/CitiesApp
+    - Page-layout - https://github.com/LukasP-ghub/layout-task
 
 <!---
 LukasP-ghub/LukasP-ghub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
