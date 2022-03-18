@@ -8,7 +8,7 @@ My stack:
 - JavaScript
 - TypeScript
 - React
-- Redux Toolkit
+- Redux
 - Git
 
 Sample projects:
@@ -17,6 +17,7 @@ Sample projects:
     - VideoApp - https://github.com/LukasP-ghub/VideoApp
   - JavaScript:
     - CitiesApp - https://github.com/LukasP-ghub/CitiesApp
+    - Tic-Tac-Toe - https://github.com/LukasP-ghub/tic-tac-toe
     - Page-layout - https://github.com/LukasP-ghub/layout-task
 
 <!---
