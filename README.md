@@ -11,7 +11,7 @@ My stack:
 - Redux
 - Git
 
-Sample projects: HTML+CSS + ...
+Sample projects: HTML+CSS/SCSS + ...
   - React:
     - WobClone - https://github.com/LukasP-ghub/WobClone
     - VideoApp - https://github.com/LukasP-ghub/VideoApp
