@@ -13,19 +13,19 @@ My stack:
 
 Sample projects:
 
-  - HTML/CSS (mainly):
+  - HTML/CSS (+ insignificant JS):
     - Page-layout - https://github.com/LukasP-ghub/layout-task
     - Time-tracking-dashboard - https://github.com/LukasP-ghub/time-tracking-dashboard
     - Banner/card - https://github.com/LukasP-ghub/Component-task
     - Room-homepage - https://github.com/LukasP-ghub/room-homepage
     - Popup-mail - https://github.com/LukasP-ghub/popup-mail
   
-  - React:
+  - React + TypeScript:
     - WobClone - https://github.com/LukasP-ghub/WobClone
     - VideoApp - https://github.com/LukasP-ghub/VideoApp
   
-  - JavaScript:
-    - CitiesApp - https://github.com/LukasP-ghub/CitiesApp
+  - JS/TS:
+    - CitiesApp (TS) - https://github.com/LukasP-ghub/CitiesApp
     - Tic-Tac-Toe - https://github.com/LukasP-ghub/tic-tac-toe
    
 
