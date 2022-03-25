@@ -13,10 +13,12 @@ My stack:
 
 Sample projects:
 
-  - HTML/CSS:
+  - HTML/CSS (mainly):
     - Page-layout - https://github.com/LukasP-ghub/layout-task
     - Time-tracking-dashboard - https://github.com/LukasP-ghub/time-tracking-dashboard
     - Banner/card - https://github.com/LukasP-ghub/Component-task
+    - Room-homepage - https://github.com/LukasP-ghub/room-homepage
+    - Popup-mail - https://github.com/LukasP-ghub/popup-mail
   
   - React:
     - WobClone - https://github.com/LukasP-ghub/WobClone
@@ -25,7 +27,7 @@ Sample projects:
   - JavaScript:
     - CitiesApp - https://github.com/LukasP-ghub/CitiesApp
     - Tic-Tac-Toe - https://github.com/LukasP-ghub/tic-tac-toe
-    - Popup-mail - https://github.com/LukasP-ghub/popup-mail
+   
 
 <!---
 LukasP-ghub/LukasP-ghub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
