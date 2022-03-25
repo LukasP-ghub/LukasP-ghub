@@ -19,6 +19,7 @@ Sample projects: HTML+CSS/SCSS + ...
     - CitiesApp - https://github.com/LukasP-ghub/CitiesApp
     - Tic-Tac-Toe - https://github.com/LukasP-ghub/tic-tac-toe
     - Page-layout - https://github.com/LukasP-ghub/layout-task
+    - Popup-mail - https://github.com/LukasP-ghub/popup-mail
 
 <!---
 LukasP-ghub/LukasP-ghub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
