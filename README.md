@@ -13,9 +13,10 @@ My stack:
 
 Sample projects:
 
-  - HTML+CSS/SCSS:
+  - HTML/CSS:
     - Page-layout - https://github.com/LukasP-ghub/layout-task
     - Time-tracking-dashboard - https://github.com/LukasP-ghub/time-tracking-dashboard
+    - Banner/card - https://github.com/LukasP-ghub/Component-task
   
   - React:
     - WobClone - https://github.com/LukasP-ghub/WobClone
