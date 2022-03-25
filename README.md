@@ -12,9 +12,10 @@ My stack:
 - Git
 
 Sample projects:
-  -HTML+CSS/SCSS:
+
+  - HTML+CSS/SCSS:
     - Page-layout - https://github.com/LukasP-ghub/layout-task
-    - Time-tracking-dashboard - 
+    - Time-tracking-dashboard - https://github.com/LukasP-ghub/time-tracking-dashboard
   
   - React:
     - WobClone - https://github.com/LukasP-ghub/WobClone
